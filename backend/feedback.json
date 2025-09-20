@@ -1,0 +1,72 @@
+[
+  {
+    "internshipId": "intern-004",
+    "feedback": "useful",
+    "ts": "2025-09-19T05:23:12.382Z"
+  },
+  {
+    "internshipId": "intern-001",
+    "feedback": "useful",
+    "ts": "2025-09-19T05:23:21.678Z"
+  },
+  {
+    "internshipId": "intern-004",
+    "feedback": "useful",
+    "ts": "2025-09-19T05:25:14.984Z"
+  },
+  {
+    "internshipId": "intern-003",
+    "feedback": "useful",
+    "ts": "2025-09-19T06:08:12.767Z"
+  },
+  {
+    "internshipId": "intern-002",
+    "feedback": "applied",
+    "ts": "2025-09-19T08:43:31.559Z"
+  },
+  {
+    "internshipId": "intern-003",
+    "feedback": "useful",
+    "ts": "2025-09-19T09:01:05.275Z"
+  },
+  {
+    "internshipId": "intern-003",
+    "feedback": "useful",
+    "ts": "2025-09-19T09:01:05.289Z"
+  },
+  {
+    "internshipId": "intern-003",
+    "feedback": "useful",
+    "ts": "2025-09-19T09:01:11.485Z"
+  },
+  {
+    "internshipId": "intern-003",
+    "feedback": "useful",
+    "ts": "2025-09-19T09:01:11.488Z"
+  },
+  {
+    "internshipId": "intern-003",
+    "feedback": "useful",
+    "ts": "2025-09-19T09:01:16.440Z"
+  },
+  {
+    "internshipId": "intern-004",
+    "feedback": "applied",
+    "ts": "2025-09-19T09:09:06.377Z"
+  },
+  {
+    "internshipId": "intern-006",
+    "feedback": "useful",
+    "ts": "2025-09-19T14:37:18.132Z"
+  },
+  {
+    "internshipId": "intern-003",
+    "feedback": "useful",
+    "ts": "2025-09-19T16:22:14.303Z"
+  },
+  {
+    "internshipId": "intern-038",
+    "feedback": "useful",
+    "ts": "2025-09-19T18:20:10.271Z"
+  }
+]

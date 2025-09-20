@@ -1,0 +1,942 @@
+[
+  {
+    "id": "intern-001",
+    "title": "Web Development Intern",
+    "company": "TechCorp",
+    "skills_required": ["HTML", "CSS", "JavaScript", "React"],
+    "sector": "Software Development",
+    "location": "Bangalore",
+    "education_required": "B.Tech",
+    "applyLink": "https://pmportal.gov.in/apply/web-dev-101",
+    "postDate": "2025-09-01"
+  },
+  {
+    "id": "intern-002",
+    "title": "Data Science Intern",
+    "company": "DataLabs",
+    "skills_required": ["Python", "Pandas", "Machine Learning"],
+    "sector": "Data Science",
+    "location": "Delhi",
+    "education_required": "B.Tech",
+    "applyLink": "https://pmportal.gov.in/apply/data-sci-102",
+    "postDate": "2025-08-28"
+  },
+  {
+    "id": "intern-003",
+    "title": "Marketing Intern",
+    "company": "GrowthX",
+    "skills_required": ["Communication", "SEO", "Content Writing"],
+    "sector": "Marketing",
+    "location": "Remote",
+    "education_required": "Any Graduate",
+    "applyLink": "https://pmportal.gov.in/apply/marketing-103",
+    "postDate": "2025-08-30"
+  },
+  {
+    "id": "intern-004",
+    "title": "Rural Development Intern",
+    "company": "Grameen Foundation",
+    "skills_required": ["Community Engagement", "Report Writing", "MS Office"],
+    "sector": "Rural Development",
+    "location": "Lucknow",
+    "education_required": "Any Graduate",
+    "applyLink": "https://pmportal.gov.in/apply/rural-dev-104",
+    "postDate": "2025-08-25"
+  },
+  {
+    "id": "intern-005",
+    "title": "Digital Literacy Intern",
+    "company": "Digital India NGO",
+    "skills_required": ["Basic Computer Skills", "Communication", "Training Delivery"],
+    "sector": "Digital Education",
+    "location": "Jaipur",
+    "education_required": "Any Graduate",
+    "applyLink": "https://pmportal.gov.in/apply/digital-literacy-105",
+    "postDate": "2025-09-02"
+  },
+  {
+    "id": "intern-006",
+    "title": "Environmental Awareness Intern",
+    "company": "EcoFuture",
+    "skills_required": ["Research", "Public Speaking", "Social Media"],
+    "sector": "Environment",
+    "location": "Remote",
+    "education_required": "Any Graduate",
+    "applyLink": "https://pmportal.gov.in/apply/environment-106",
+    "postDate": "2025-08-27"
+  },
+  {
+    "id": "intern-007",
+    "title": "Power BI Data Analyst Intern",
+    "company": "Henry Harvin",
+    "skills_required": [
+      "Power BI", "Data Visualization", "Dashboard Creation", "Data Integration", "Data Modeling", "Trend Analysis", "Performance Metrics", "Reporting",
+      "Data Presentation"
+    ],
+    "sector": "IT-ITeS",
+    "location": "Online",
+    "education_required": "10th, 12th, Graduation, Post-Graduation",
+    "applyLink": "https://unstop.com/internships/power-bi-data-analyst-intern-henry-harvin",
+    "postDate": "2025-09-15"
+  },
+  {
+    "id": "intern-008",
+    "title": "AI-powered Smart Inventory Management System Developer",
+    "company": "TutorialsPoint",
+    "skills_required": [
+      "Python", "TensorFlow", "Flask", "REST APIs", "Machine Learning", "AI Algorithms", "Data Analysis", "Inventory Management Systems",
+      "Predictive Analytics", "System Design"
+    ],
+    "sector": "IT-ITeS",
+    "location": "Online",
+    "education_required": "Post Graduation, Graduation",
+    "applyLink": "https://unstop.com/internships/ai-inventory-management-system-tutorialspoint",
+    "postDate": "2025-09-15"
+  },
+  {
+    "id": "intern-009",
+    "title": "AI Full Stack Developer Intern",
+    "company": "Neuramach.AI",
+    "skills_required": [
+      "React", "Next.js", "Python", "Node.js", "Machine Learning", "Data Pipelines", "API Development", "Git", "SQL", "NoSQL", "Cloud Deployment", "CI/CD"
+    ],
+    "sector": "Artificial Intelligence/Technology",
+    "location": "Pune",
+    "education_required": "No specific educational background required",
+    "applyLink": "https://unstop.com/internships/ai-full-stack-developer-intern-neuramach-ai",
+    "postDate": "2025-09-11"
+  },
+  {
+    "id": "intern-010",
+    "title": "Mobile / App Development Intern",
+    "company": "Agrofix Technologies Private Limited",
+    "skills_required": [
+      "React Native", "Java", "Android Development", "SQL Databases", "RESTful APIs", "JSON", "Problem Solving"
+    ],
+    "sector": "Technology/Mobile Development",
+    "location": "Work From Home",
+    "education_required": "Students from all educational backgrounds",
+    "applyLink": "https://unstop.com/internships/mobile-app-development-intern-agrofix-technologies",
+    "postDate": "2025-09-12"
+  },
+  {
+    "id": "intern-011",
+    "title": "Graphic Designer",
+    "company": "yashar.dev",
+    "skills_required": [
+      "Adobe Creative Suite", "Photoshop", "Illustrator", "InDesign", "Canva", "Design Principles", "Typography", "Branding Awareness", "Visual Hierarchy",
+      "Attention to Detail", "Creativity", "Basic Animation", "Prototyping Tools"
+    ],
+    "sector": "Information Technology & Services",
+    "location": "Work from home",
+    "education_required": "Bachelor's degree in Graphic Design, Visual Arts or related field (or equivalent experience)",
+    "applyLink": "https://boostgrad.com/job/graphic-designers-jid140970",
+    "postDate": "2025-09-13"
+  },
+  {
+    "id": "intern-012",
+    "title": "Digital Marketing Intern",
+    "company": "Graphicodx IT Consultancy",
+    "skills_required": [
+      "Content Writing", "Social Media Marketing", "SEO Basics", "Email Marketing", "Google Analytics", "Digital Marketing", "Basic Design Skills"
+    ],
+    "sector": "Information Technology & Services, Market Research, Marketing & Advertising",
+    "location": "Work from home",
+    "education_required": "Currently pursuing or recently completed degree in Marketing, Communications, Business or related field",
+    "applyLink": "https://boostgrad.com/job/digital-marketing-intern-jid140589",
+    "postDate": "2025-09-12"
+  },
+  {
+    "id": "intern-013",
+    "title": "Computer Applications Software Engineer",
+    "company": "Dataviv Technologies",
+    "skills_required": [
+      "Microsoft Office", "Excel", "Canva", "PPT Making", "Data Entry", "Invoicing", "Mac OS"
+    ],
+    "sector": "Computer Networking",
+    "location": "Mumbai, Maharashtra",
+    "education_required": "Bachelor of Computer Information Systems",
+    "applyLink": "https://boostgrad.com/job/computer-applications-software-engineers-jid141082",
+    "postDate": "2025-09-14"
+  }
+  ,{
+    "id": "intern-014",
+    "title": "Marketing Intern",
+    "company": "Cialfo",
+    "skills_required": [
+      "Communication",
+      "Active Listening"
+    ],
+    "sector": "Marketing",
+    "location": "Delhi",
+    "education_required": "At least Bachelor's degree",
+    "applyLink": "https://unstop.com/internships/marketing-internship-cialfo-1558303",
+    "postDate": "2025-09-15"
+  },
+  {
+    "id": "intern-015",
+    "title": "Marketing Internship",
+    "company": "Cialfo",
+    "skills_required": [
+      "Exceptional verbal and written communication skills",
+      "Excellent active listening skills"
+    ],
+    "sector": "Marketing",
+    "location": "Delhi",
+    "education_required": "At least Bachelor's degree",
+    "applyLink": "https://unstop.com/internships/marketing-internship-cialfo-1558303",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-016",
+    "title": "Marketing Internship",
+    "company": "Cialfo",
+    "skills_required": [
+      "Exceptional verbal and written communication skills",
+      "Excellent active listening skills"
+    ],
+    "sector": "Marketing",
+    "location": "Delhi",
+    "education_required": "At least Bachelor's degree",
+    "applyLink": "https://unstop.com/internships/marketing-internship-cialfo-1558303",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-017",
+    "title": "Growth Internship",
+    "company": "Shopalyst Technologies",
+    "skills_required": [
+      "Exceptional communication skills - both written and verbal",
+      "Strong comprehension skills - ability to quickly understand complex information and concepts",
+      "Proven critical thinking skills - ability to analyze problems, evaluate options, and propose effective solutions",
+      "A positive attitude, a strong work ethic, and a desire to learn"
+    ],
+    "sector": "Technology/B2B SaaS",
+    "location": "Bangalore Urban",
+    "education_required": "A recent graduate or current student pursuing a bachelor's degree in any field",
+    "applyLink": "https://unstop.com/internships/growth-internship-shopalyst-technologies-1558281",
+    "postDate": "2025-09-15"
+  },
+  {
+    "id": "intern-018",
+    "title": "Sales Internship",
+    "company": "Procureyard Technology Private Limited",
+    "skills_required": [
+      "B2B sales within the iron and steel industry",
+      "Excellent communication and negotiation skills",
+      "Ability to develop and implement successful sales strategies"
+    ],
+    "sector": "B2B Commerce startup",
+    "location": "Gurgaon",
+    "education_required": "Not specified",
+    "applyLink": "https://unstop.com/internships/sales-internship-procureyard-technology-private-limited-1558264",
+    "postDate": "2025-09-15"
+  },
+  {
+    "id": "intern-019",
+    "title": "Sales Internship",
+    "company": "Procureyard Technology Private Limited",
+    "skills_required": [
+      "B2B sales within the iron and steel industry",
+      "Excellent communication and negotiation skills",
+      "Demonstrated ability to develop and implement successful sales strategies"
+    ],
+    "sector": "B2B Commerce startup",
+    "location": "Gurgaon",
+    "education_required": "Not specified",
+    "applyLink": "https://unstop.com/internships/sales-internship-procureyard-technology-private-limited-1558264",
+    "postDate": "2025-09-15"
+  },
+  {
+    "id": "intern-020",
+    "title": "Tata Imagination Challenge 2025",
+    "company": "Tata Group",
+    "skills_required": [],
+    "sector": "Business Plan/Entrepreneurship",
+    "location": "Online",
+    "education_required": "Not specified",
+    "applyLink": "https://unstop.com/competitions/tata-imagination-challenge-2025-tata-group-1543000",
+    "postDate": "2025-09-11"
+  },
+  {
+    "id": "intern-021",
+    "title": "Full Stack Development Intern",
+    "company": "FlocCare",
+    "skills_required": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "MongoDB",
+      "Amazon Web Services (AWS)",
+      "Bootstrap",
+      "Redis",
+      "pandas",
+      "Bitbucket",
+      "DevOps"
+    ],
+    "sector": "Healthcare Technology",
+    "location": "Mangalore",
+    "education_required": "Relevant skills and interests (specific degree not specified)",
+    "applyLink": "https://internshala.com/internship/detail/full-stack-development-internship-in-mangalore-at-floccare1755926831",
+    "postDate": "2025-08-25"
+  },
+  {
+    "id": "intern-022",
+    "title": "Cloud Computing Intern",
+    "company": "Emoolar Technology Private Limited",
+    "skills_required": [
+      "Amazon Web Services (AWS)",
+      "Google Cloud Platform (GCP)",
+      "Microsoft Azure",
+      "Cloud Computing",
+      "Cloud Infrastructure",
+      "Cloud Solutions Development"
+    ],
+    "sector": "IT Services & Cloud Computing",
+    "location": "Work from home",
+    "education_required": "Relevant skills and interests in Cloud Computing",
+    "applyLink": "https://internshala.com/internship/detail/work-from-home-part-time-cloud-computing-internship-at-emoolar-technology-private-limited1755928763",
+    "postDate": "2025-08-23"
+  },
+  {
+    "id": "intern-023",
+    "title": "DevOps-Oriented Full-Stack Engineer Intern",
+    "company": "CodeIncubate",
+    "skills_required": [
+      "Amazon Web Services (AWS)",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "NestJS",
+      "FastAPI",
+      "Node.js",
+      "Python",
+      "PostgreSQL",
+      "Redis",
+      "GraphQL",
+      "Flutter",
+      "Grafana",
+      "Prometheus",
+      "CI/CD",
+      "Cloud Infrastructure",
+      "DevOps",
+      "API Development",
+      "Containerization",
+      "Monitoring Tools"
+    ],
+    "sector": "AI & Software Engineering",
+    "location": "Gurgaon",
+    "education_required": "Relevant skills and interests in DevOps and Full-Stack Development",
+    "applyLink": "https://unstop.com/internships/devops-full-stack-engineer-intern-codeincubate",
+    "postDate": "2025-08-27"
+  },
+  {
+    "id": "intern-024",
+    "title": "AWS DevOps Engineer Intern",
+    "company": "Anshumat Foundation",
+    "skills_required": [
+      "Amazon Web Services (AWS)",
+      "Linux Administration",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Python",
+      "GitHub",
+      "Jenkins",
+      "PostgreSQL",
+      "Database Management",
+      "Nginx/Apache",
+      "Terraform",
+      "Ansible",
+      "Cloud Infrastructure",
+      "System Design",
+      "Security Tools"
+    ],
+    "sector": "NGO",
+    "location": "Bangalore (Hybrid)",
+    "education_required": "Pursuing Computer Science, IT or related fields",
+    "applyLink": "https://internshala.com/internship/detail/aws-devops-engineer-internship-in-bangalore-at-anshumat-foundation1757308222",
+    "postDate": "2025-09-07"
+  },
+  {
+    "id": "intern-025",
+    "title": "Sales Executive",
+    "company": "PreludeSys",
+    "skills_required": [
+      "Fluent English",
+      "Hindi Speaking",
+      "Outbound Calling",
+      "Sales"
+    ],
+    "sector": "IT Services & Consulting",
+    "location": "Chennai (Adyar)",
+    "education_required": "Not specified",
+    "applyLink": "https://www.naukri.com/job-listings-sales-executives-preludesys-chennai-1-to-3-years-280825020710?src=companyPageJobsDesk&sid=17579939051341207&xp=1&px=1",
+    "postDate": "2025-09-01"
+  },
+  {
+    "id": "intern-026",
+    "title": "Fresher",
+    "company": "Cognizant",
+    "skills_required": [],
+    "sector": "IT",
+    "location": "Chennai",
+    "education_required": "Not specified",
+    "applyLink": "https://www.naukri.com/job-listings-fresher-cognizant-chennai-0-to-0-years-100925012531?src=companyPageJobsDesk&sid=1757994339424356&xp=1&px=1",
+    "postDate": "2025-09-14"
+  },
+  {
+    "id": "intern-027",
+    "title": "Cognizant Hiring Freshers - Hyderabad",
+    "company": "Cognizant",
+    "skills_required": [],
+    "sector": "IT",
+    "location": "Hyderabad",
+    "education_required": "Not specified",
+    "applyLink": "https://www.naukri.com/job-listings-cognizant-hiring-freshers-hyderabad-cognizant-hyderabad-0-to-0-years-150925013403?src=companyPageJobsDesk&sid=1757994339424356&xp=2&px=1",
+    "postDate": "2025-09-18"
+  },
+  {
+    "id": "intern-028",
+    "title": "Fresher Mapping Role",
+    "company": "Cognizant",
+    "skills_required": [],
+    "sector": "IT",
+    "location": "Hyderabad",
+    "education_required": "Not specified",
+    "applyLink": "https://www.naukri.com/job-listings-fresher-mapping-role-cognizant-hyderabad-0-to-1-years-130925005167?src=companyPageJobsDesk&sid=1757994339424356&xp=3&px=1",
+    "postDate": "2025-09-17"
+  },
+  {
+    "id": "intern-029",
+    "title": "Site Store Manager",
+    "company": "Reliance Industries (RIL)",
+    "skills_required": [],
+    "sector": "Not specified",
+    "location": "Beed, Maharashtra",
+    "education_required": "Not specified",
+    "applyLink": "https://www.naukri.com/job-listings-site-store-manager-reliance-industries-beed-maharashtra-reliance-industries-ril-beed-3-to-8-years-020925012109?src=companyPageJobsDesk&sid=17579946918359554&xp=1&px=1",
+    "postDate": "2025-09-12"
+  },
+  {
+    "id": "intern-030",
+    "title": "Construction Manager",
+    "company": "Reliance Industries (RIL)",
+    "skills_required": [],
+    "sector": "Not specified",
+    "location": "Solapur, Aurangabad",
+    "education_required": "Not specified",
+    "applyLink": "https://www.naukri.com/job-listings-construction-manager-reliance-industries-ril-solapur-aurangabad-10-to-20-years-090925021936?src=companyPageJobsDesk&sid=17579946918359554&xp=2&px=1",
+    "postDate": "2025-09-13"
+  },
+  {
+    "id": "intern-031",
+    "title": "Executive Assistant",
+    "company": "Myntra",
+    "skills_required": [
+      "Organizational and time-management abilities",
+      "Written and verbal communication",
+      "Microsoft Office Suite (Excel, PowerPoint, Word)",
+      "Confidentiality and discretion",
+      "Attention to detail",
+      "Problem-solving"
+    ],
+    "sector": "Technology, Information and Internet",
+    "location": "Bengaluru, Karnataka, India",
+    "education_required": "Bachelor’s or Master’s degree",
+    "applyLink": "https://www.myntra.com/careers",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-032",
+    "title": "Guest Coordinator - CNBC TV18",
+    "company": "Network18 Media & Investments Limited",
+    "skills_required": [
+      "Business news awareness",
+      "Guest coordination",
+      "Ability to identify key policy and business decision-makers",
+      "Handling international guests",
+      "News spotting and breaking",
+      "Media background"
+    ],
+    "sector": "Media Production, Public Relations and Communications Services, Broadcast Media Production and Distribution",
+    "location": "Mumbai, Maharashtra, India",
+    "education_required": "Not specified (Media background preferred)",
+    "applyLink": "https://www.cnbctv18.com/",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-033",
+    "title": "Buying Executive",
+    "company": "FirstCry.com (BrainBees Solutions Ltd.)",
+    "skills_required": [
+      "Production and sampling record management",
+      "Vendor communication and management",
+      "Purchase order creation",
+      "Sourcing and indenting",
+      "Style and fashion trend analysis",
+      "Material status tracking",
+      "Costing and order closure",
+      "Follow-up on submissions and shipments",
+      "Quality parameter and testing knowledge",
+      "Strong communication",
+      "Vendor development",
+      "Willingness to travel"
+    ],
+    "sector": "Retail and Internet Marketplace Platforms",
+    "location": "Pune, Maharashtra, India",
+    "education_required": "Not specified",
+    "applyLink": "https://www.firstcry.com/",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-034",
+    "title": "Area Sales Executive",
+    "company": "Britannia Industries Limited",
+    "skills_required": [
+      "FMCG sales experience",
+      "Team handling and people management",
+      "Knowledge of SAP environment",
+      "Objective setting and business planning",
+      "Customer and vendor management",
+      "Stock freshness and norm management",
+      "Trade marketing execution",
+      "Consumer promotions and product launches",
+      "Merchandising and visibility implementation",
+      "Training and development for sales teams",
+      "Market benchmarking and best practices",
+      "Commercial control and systems adherence"
+    ],
+    "sector": "Manufacturing",
+    "location": "Ahmedabad, Gujarat, India",
+    "education_required": "Any graduate (MBA desirable)",
+    "applyLink": "https://www.britannia.co.in/careers",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-035",
+    "title": "Guest Coordinator - CNBC TV18",
+    "company": "Network18 Media & Investments Limited",
+    "skills_required": [
+      "Business news awareness",
+      "Guest coordination",
+      "Ability to identify key policy and business decision-makers",
+      "Handling international guests",
+      "News spotting and breaking",
+      "Media background"
+    ],
+    "sector": "Media Production, Public Relations and Communications Services, Broadcast Media Production and Distribution",
+    "location": "Mumbai, Maharashtra, India",
+    "education_required": "Not specified (Media background preferred)",
+    "applyLink": "https://www.cnbctv18.com/",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-036",
+    "title": "Early in Profession Recruiter",
+    "company": "Microsoft",
+    "skills_required": [
+      "Talent acquisition and recruiting",
+      "University and early-career hiring",
+      "Engineering/technical recruitment knowledge",
+      "Market analysis and sourcing strategy",
+      "Candidate assessment and screening",
+      "Operational compliance and documentation",
+      "Stakeholder and client engagement",
+      "Program and event management",
+      "Data-driven recruiting and insights",
+      "Community outreach and candidate attraction"
+    ],
+    "sector": "Software Development",
+    "location": "Bengaluru, Karnataka, India",
+    "education_required": "Bachelor's Degree (Master’s preferred) OR equivalent experience",
+    "applyLink": "https://careers.microsoft.com/",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-037",
+    "title": "Engineer/ Sr. Engineer Projects",
+    "company": "Aditya Birla Group",
+    "skills_required": [
+      "Core engineering principles and technical drawings interpretation",
+      "Process Safety Management practices",
+      "Safety regulations and risk assessment methodologies",
+      "Problem-solving and solution development",
+      "End-to-end project management",
+      "Compliance with statutory and regulatory standards",
+      "Focus on safety, quality, and environmental norms",
+      "Process optimization and efficiency improvement"
+    ],
+    "sector": "Executive Offices",
+    "location": "Gujarat, India",
+    "education_required": "Not specified",
+    "applyLink": "https://www.adityabirla.com/careers",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-038",
+    "title": "Manager",
+    "company": "Varun Beverages Limited",
+    "skills_required": [
+      "Supply chain management",
+      "Dispatch operations",
+      "Inventory management (FIFO, zero expiry, fill rate)",
+      "Safety norms implementation",
+      "MIS and data reporting",
+      "Dashboard publishing",
+      "Vendor and transport coordination",
+      "Strong communication skills",
+      "Proficiency in Microsoft Excel",
+      "Workforce management (organized & unorganized)"
+    ],
+    "sector": "Food and Beverage Services",
+    "location": "Buxar, Bihar, India",
+    "education_required": "Any Graduation (Post Graduation preferred)",
+    "applyLink": "https://www.varunbeverages.com/careers",
+    "postDate": "2025-09-17"
+  },
+  {
+    "id": "intern-039",
+    "title": "Customer Service Advisor (International)",
+    "company": "Capgemini",
+    "skills_required": [
+      "Outbound calling (US clients)",
+      "Customer query resolution",
+      "Objection handling and escalation",
+      "CRM tools and call centre software",
+      "Verbal communication and interpersonal skills",
+      "Collaboration with team leads and quality analysts",
+      "Compliance with US calling regulations",
+      "Goal orientation and problem solving",
+      "Adaptability to night shifts/US time zones",
+      "Knowledge of international culture and customer behaviour"
+    ],
+    "sector": "IT Services and IT Consulting",
+    "location": "Greater Kolkata Area",
+    "education_required": "Bachelors degree or equivalent",
+    "applyLink": "https://www.capgemini.com/careers",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-040",
+    "title": "Company Secretary",
+    "company": "Baidyanath",
+    "skills_required": [
+      "Drafting board resolutions and authorizations",
+      "Filing annual returns (MCA V2 & V3 portal)",
+      "Dematerialization of securities",
+      "Loan and investment documentation liaison",
+      "Monitoring CSR activities",
+      "Statutory registers preparation",
+      "Board and AGM minutes preparation",
+      "RBI compliances (NBFC)",
+      "Notice and agenda preparation for meetings",
+      "Bank liaison for accounts, KYC, and online banking",
+      "Directors KYC, PAN, Aadhar, Passport applications",
+      "Secretarial compliance (MSME, PAS, DIR-12, MGT-14, CRA-4, CHG, BEN forms)",
+      "Handling buy-back, private placement, rights issue",
+      "AOA and MOA alterations",
+      "Shareholding and transfer details maintenance",
+      "Auditor payments and certification documentation",
+      "ROC notice reply preparation",
+      "Visiting ROC, banks, consultants as required"
+    ],
+    "sector": "Retail Health, Personal Care Products, and Pharmaceutical Manufacturing",
+    "location": "Kolkata, West Bengal, India",
+    "education_required": "Qualified Company Secretary",
+    "applyLink": "https://www.baidyanath.com/careers",
+    "postDate": "2025-09-17"
+  },
+  {
+    "id": "intern-041",
+    "title": "Manager",
+    "company": "KPMG India",
+    "skills_required": [
+      "Sales and business development",
+      "Account hunting and farming",
+      "Lead generation and closure",
+      "Stakeholder management",
+      "Global captive business expertise",
+      "Technology awareness (major platforms and OEM offerings)",
+      "Experience with multiple engagement models",
+      "Target-driven mindset",
+      "Self-driven and proactive work approach",
+      "Team coordination across practices"
+    ],
+    "sector": "IT Services, IT Consulting, and IT System Data Services",
+    "location": "Gurugram, Haryana, India",
+    "education_required": "BE / B.Tech / ME / M.Tech / MBA",
+    "applyLink": "mailto:shivani3@kpmg.com",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-042",
+    "title": "Engineer - Sales and Marketing (Biotechnology)",
+    "company": "BPG Renewables",
+    "skills_required": [
+      "Engineering Drawing",
+      "Marketing Strategies",
+      "CRM Platforms",
+      "Market Research",
+      "Sales Strategies",
+      "Client Relationship Management",
+      "Technical Guidance",
+      "Data Analytics"
+    ],
+    "sector": "Biotechnology/Renewable Energy",
+    "location": "Bangalore",
+    "education_required": "Final year students or completed course in relevant field",
+    "applyLink": "https://internshala.com/internships/biotech-internship/",
+    "postDate": "2025-08-29"
+  },
+  {
+    "id": "intern-043",
+    "title": "Researcher (Environmental Science/Biotechnology)",
+    "company": "Nan Kum",
+    "skills_required": [
+      "Biology",
+      "Content Writing",
+      "Research and Analytics",
+      "Phytoremediation",
+      "Scientific Documentation",
+      "Environmental Science"
+    ],
+    "sector": "Environmental Science/Biotechnology",
+    "location": "Work from home",
+    "education_required": "Relevant background in Environmental Science or Biotechnology",
+    "applyLink": "https://internshala.com/internship/detail/work-from-home-researcher-environmental-science-biotechnology-internship-at-nan-kum1757657700",
+    "postDate": "Not Specified"
+  },
+  {
+    "id": "intern-044",
+    "title": "Digital Marketing Intern",
+    "company": "EcoVibes Green India Private Limited",
+    "skills_required": [
+      "Adobe Photoshop",
+      "Canva",
+      "Instagram Marketing",
+      "Microsoft 365",
+      "Web Development"
+    ],
+    "sector": "Digital Marketing",
+    "location": "Ahmedabad, Surat, Vadodara",
+    "education_required": "Not specified",
+    "applyLink": "https://internshala.com/internship/detail/digital-marketing-internship-at-ecovibes-green-india-private-limited-2025",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-045",
+    "title": "Inside Sales Intern",
+    "company": "ReelOn Technologies Pvt. Ltd",
+    "skills_required": [
+      "English Proficiency (Spoken)",
+      "Hindi Proficiency (Spoken)",
+      "Kannada Proficiency (Spoken)"
+    ],
+    "sector": "Sales & Entertainment Industry",
+    "location": "Hyderabad",
+    "education_required": "No formal degree required (basic education is sufficient)",
+    "applyLink": "https://internshala.com/internship/detail/inside-sales-internship-at-reelon-technologies-pvt-ltd-2025",
+    "postDate": "2025-09-18"
+  },
+  {
+    "id": "intern-046",
+    "title": "Human Resources (HR) Intern",
+    "company": "FiftySixShots Beverages Private Limited",
+    "skills_required": [
+      "Effective Communication",
+      "English Proficiency (Spoken)",
+      "Interpersonal Skills",
+      "Kannada Proficiency (Spoken)",
+      "MS-Office",
+      "MS-Word"
+    ],
+    "sector": "Human Resources",
+    "location": "Bangalore",
+    "education_required": "Not specified",
+    "applyLink": "https://internshala.com/internship/detail/human-resources-hr-internship-at-fiftysixshots-beverages-private-limited-2025",
+    "postDate": "2025-09-18"
+  },
+  {
+    "id": "intern-047",
+    "title": "Video Editing/Making Intern",
+    "company": "Auora Studios Private Limited",
+    "skills_required": [
+      "Adobe Premiere Pro",
+      "Canva"
+    ],
+    "sector": "Video Editing & Media",
+    "location": "Pune",
+    "education_required": "Not specified",
+    "applyLink": "https://internshala.com/internship/detail/video-editing-making-internship-at-auora-studios-private-limited-2025",
+    "postDate": "2025-09-17"
+  },
+  {
+    "id": "intern-048",
+    "title": "Graphic Design Intern",
+    "company": "Wtvision Solutions Private Limited",
+    "skills_required": [
+      "Adobe Illustrator",
+      "Adobe InDesign",
+      "Adobe Photoshop",
+      "Canva",
+      "Figma",
+      "Typography",
+      "Color Theory",
+      "Layout Design"
+    ],
+    "sector": "Design & Creative Services",
+    "location": "Delhi, Ghaziabad, Greater Noida, Noida",
+    "education_required": "Degree in Graphic Design, Visual Arts or related field",
+    "applyLink": "https://unstop.com/internships/graphic-design-intern-wtvision-solutions",
+    "postDate": "2025-09-11"
+  },
+  {
+    "id": "intern-049",
+    "title": "Digital Marketing Intern",
+    "company": "Accountant AI",
+    "skills_required": [
+      "Digital Marketing",
+      "Social Media Marketing",
+      "Facebook Marketing",
+      "Creative Writing",
+      "English Proficiency (Spoken)",
+      "Content Creation",
+      "Market Research",
+      "Analytics"
+    ],
+    "sector": "Artificial Intelligence/Accounting Technology",
+    "location": "Delhi, Greater Noida, Noida",
+    "education_required": "Relevant skills and interests in Digital Marketing",
+    "applyLink": "https://internshala.com/internship/detail/digital-marketing-internship-in-multiple-locations-at-accountant-ai1758095197i",
+    "postDate": "2025-09-16"
+  },
+  {
+    "id": "intern-050",
+    "title": "Video Editor & Creative Designer Intern",
+    "company": "Probey Services Private Limited",
+    "skills_required": [
+      "Video Editing",
+      "Adobe Premiere Pro",
+      "After Effects",
+      "Final Cut Pro",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Canva",
+      "Graphic Design",
+      "Motion Graphics",
+      "Logo Design",
+      "Banner Design",
+      "Videography"
+    ],
+    "sector": "Creative Services/Media",
+    "location": "Delhi, Greater Noida, Noida, Ghaziabad",
+    "education_required": "Relevant skills in Video Editing and Graphic Design",
+    "applyLink": "https://internshala.com/internship/detail/video-editing-making-internship-in-multiple-locations-at-probey-services-private-limited1758092257",
+    "postDate": "Not Specified"
+  },
+  {
+    "id": "intern-051",
+    "title": "Junior Software Developer Intern",
+    "company": "Voizer.ai",
+    "skills_required": [
+      "Python",
+      "Django",
+      "Golang",
+      "CRM Systems",
+      "Automation Tools",
+      "Workflow Integration",
+      "Data Management",
+      "Problem Solving"
+    ],
+    "sector": "AI/Software Development",
+    "location": "Delhi",
+    "education_required": "Computer Science or related field (students or recent graduates)",
+    "applyLink": "https://internshala.com/internship/detail/junior-software-developer-internship-in-delhi-at-voizerai1758111501",
+    "postDate": "Not Specified"
+  },
+  {
+    "id": "intern-052",
+    "title": "Business Development (Sales) Intern",
+    "company": "Swifter Multicorps Pvt Ltd",
+    "skills_required": [
+      "Effective Communication",
+      "English Proficiency (Spoken)",
+      "English Proficiency (Written)",
+      "MS-Excel",
+      "Social Media Marketing",
+      "Lead Generation",
+      "Sales Conversion",
+      "Customer Relationship Management",
+      "Administrative Coordination"
+    ],
+    "sector": "Business Development/Sales",
+    "location": "Delhi (Hybrid)",
+    "education_required": "Relevant skills and interests in Sales and Business Development",
+    "applyLink": "https://internshala.com/internship/detail/part-time-business-development-sales-internship-in-delhi-at-swifter-multicorps-pvt-ltd1757958340",
+    "postDate": "Not Specified"
+  },
+  {
+    "id": "intern-053",
+    "title": "Generative AI Video Editor Intern",
+    "company": "Prolegion Private Limited",
+    "skills_required": [
+      "Adobe Premiere Pro",
+      "DaVinci Resolve",
+      "Generative AI Development",
+      "Video Editing",
+      "AI Tools (Adobe Firefly, HeyGen)",
+      "Storytelling",
+      "Prompt Engineering"
+    ],
+    "sector": "SaaS/Technology",
+    "location": "Noida",
+    "education_required": "Bachelor's degree (completed or in progress) in relevant field",
+    "applyLink": "https://internshala.com/internship/detail/generative-ai-video-editor-internship-in-noida-at-prolegion-private-limited1758083206",
+    "postDate": "Not Specified"
+  },
+  {
+    "id": "intern-054",
+    "title": "Frontend Web Development Intern",
+    "company": "Not Specified",
+    "skills_required": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js",
+      "Vue.js",
+      "Responsive Design",
+      "UI/UX Implementation",
+      "API Integration",
+      "Debugging",
+      "Code Optimization"
+    ],
+    "sector": "Web Development / Technology",
+    "location": "Work From Home",
+    "education_required": "Engineering Students, Undergraduate, Postgraduate",
+    "applyLink": "Not Provided",
+    "postDate": "Not Provided"
+  },
+  {
+    "id": "intern-055",
+    "title": "Generative AI Video Editor Intern",
+    "company": "Prolegion Private Limited",
+    "skills_required": [
+      "Adobe Premiere Pro",
+      "DaVinci Resolve",
+      "Generative AI Development",
+      "Video Editing",
+      "AI Tools (Adobe Firefly, HeyGen)",
+      "Storytelling",
+      "Prompt Engineering"
+    ],
+    "sector": "SaaS/Technology",
+    "location": "Noida",
+    "education_required": "Bachelor's degree (completed or in progress) in relevant field",
+    "applyLink": "https://internshala.com/internship/detail/generative-ai-video-editor-internship-in-noida-at-prolegion-private-limited1758083206",
+    "postDate": "Not Specified"
+  }
+
+  ]  
